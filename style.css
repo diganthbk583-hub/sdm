@@ -1,0 +1,67 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  font-family:Arial;
+}
+
+.top{
+  background:#030741;
+  color:white;
+  text-align:right;
+  padding:8px;
+}
+
+nav{
+  background:#f4f4f4;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:15px;
+}
+
+.logo{
+  display:flex;
+}
+
+.logo img{
+  width:70px;
+  margin-right:10px;
+}
+
+.menu a{
+  color:#030741;
+  text-decoration:none;
+  margin:15px;
+}
+
+input{
+  padding:5px;
+  border-radius:20px;
+}
+
+.hero{
+  width:100%;
+  height:600px;
+}
+
+.welcome{
+  padding:20px;
+}
+
+.welcome h1{
+  font-size:45px;
+}
+
+footer{
+  background:#030741;
+  color:white;
+  text-align:center;
+  padding:20px;
+}
+
+.contact{
+  text-align:left;
+}
